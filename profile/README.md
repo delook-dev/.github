@@ -36,8 +36,9 @@ Delook은 별도의 결심 없이,</br>그저 브라우저를 열었을 뿐인�
 
 ---
 
-## 🙋‍♀️ 오픈소스 기여
-지식을 나누고 싶은 누구나, Delook에 기여할 수 있습니다. 
+## 🙋‍♀🧠 오픈소스 기여
+디룩은 함께 만들어가는 오픈소스 프로젝트입니다.</br>지식을 나누고 싶은 누구나, Delook에 기여할 수 있습니다.
 
-> CONTRIBUTING 가이드는 준비 중입니다.
-> 궁금한 점이나 제안은 [Discussions](https://github.com/delook-dev/delook/discussions) 또는 [Issues](https://github.com/delook-dev/delook/issues)를 통해 남겨주세요.
+> 기여를 원하신다면 [CONTRIBUTING.md](https://github.com/delook-dev/delook/blob/main/CONTRIBUTING.md)와 [CODE_OF_CONDUCT.md](https://github.com/delook-dev/delook/blob/main/CODE_OF_CONDUCT.md)를 참고해주세요.
+---
+궁금한 점이나 제안은 [Discussions](https://github.com/delook-dev/delook/discussions) 또는 [Issues](https://github.com/delook-dev/delook/issues)를 통해 남겨주세요.
