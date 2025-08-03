@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-1. 크롬 웹 스토어에서 디룩을 "Chrome에 추가" 해주세요
+1. [크롬 웹 스토어](https://chromewebstore.google.com/detail/ehfclaaaeofpkbgankkeokjgodoejahp?utm_source=item-share-cb)에서 디룩을 Chrome에 추가
 2. 설치가 완료되면 새 탭에서 디룩이 자동으로 실행
 
 ※ 자동으로 실행되지 않는다면, 
@@ -50,7 +50,7 @@
 
 1. Safari → Settings 클릭
 2. New windows/tabs open with 을 Homepage로 설정
-3. Homepage 주소를 [`https://www.delook.co.kr`](https://www.delook.co.kr/) 으로 등록
+3. Homepage 주소를 [`https://www.delook.co.kr`](https://www.delook.co.kr/)으로 등록
 
 ### Firefox 
 
@@ -73,4 +73,4 @@
 > 곧 디룩을 함께 만들어나갈 기여자들을 모집할 계획입니다.
 추후 내용이 확정되면 공지를 올리겠습니다. 
 
-궁금한 점이나 제안은 delook.dev@gmail.com를 통해 남겨주세요.
+궁금한 점이나 제안은 <a href="mailto:delook.dev@gmail.com">delook.dev@gmail.com</a>를 통해 남겨주세요.
