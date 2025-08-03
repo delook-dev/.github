@@ -3,27 +3,16 @@
 > 성장하는 개발자를 위한 오픈소스 기반 지식 공유 플랫폼</br>
 
 <p align="center">
-  <img width="600" src="https://github.com/user-attachments/assets/e183b365-a43e-42c3-9d31-7490868e6c63" alt="Delook OG Image Preview" />
-</p>
-
-<p align="center">
   <a href="https://www.delook.co.kr" target="_blank">
     <strong>Delook 바로가기</strong>
   </a>
 </p>
+
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/%EB%94%94%EB%A3%A9delook/ehfclaaaeofpkbgankkeokjgodoejahp" target="_blank">
-    <strong>Delook 확장 프로그램 바로가기</strong>
-  </a>
+  <img width="600" src="https://github.com/user-attachments/assets/e183b365-a43e-42c3-9d31-7490868e6c63" alt="Delook OG Image Preview" />
 </p>
 
-디룩(Delook)은 브라우저 새 탭에서 프로그래밍 지식을 학습할 수 있도록 돕는 크롬 확장 프로그램입니다.
-
-현재 두가지 방식으로 운영중입니다.
-- 확장프로그램(메인): 새 탭을 직접 커스터마이징하는 형태로 제공([크롬 웹스토어](https://chromewebstore.google.com/detail/%EB%94%94%EB%A3%A9delook/ehfclaaaeofpkbgankkeokjgodoejahp)) 
-- 웹사이트: [도메인 주소](https://www.delook.co.kr)를 통한 접근
-
----
+디룩(Delook)은 브라우저 새 탭에서 프로그래밍 지식을 학습할 수 있도록 돕는 플랫폼입니다.
 
 ## 해결하고자 하는 점
 
@@ -35,23 +24,53 @@
 
 ## 설치 및 사용법
 
-1. [크롬 웹 스토어](https://chromewebstore.google.com/detail/%EB%94%94%EB%A3%A9delook/ehfclaaaeofpkbgankkeokjgodoejahp)에서 디룩을 "Chrome에 추가" 해주세요.
-2. 설치가 완료되면 새 탭에서 디룩이 자동으로 실행됩니다.
+### Chrome 
+<table align="center">
+  <tr>
+    <td>
+<img width="560" alt="chrome" src="https://github.com/user-attachments/assets/868d7dee-8dc8-484e-9dad-7bb034377e80" />
+</td>
+</tr>
+</table>
+
+1. 크롬 웹 스토어에서 디룩을 "Chrome에 추가" 해주세요
+2. 설치가 완료되면 새 탭에서 디룩이 자동으로 실행
 
 ※ 자동으로 실행되지 않는다면, 
 `브라우저 설정 > 시작시 설정`에서 디룩을 기본 `새 탭 페이지 열기`로 설정해주세요.
 
+### Safari 
+<table align="center">
+  <tr>
+    <td>
+<img width="560" alt="safari" src="https://github.com/user-attachments/assets/41e337bd-2741-48f7-988b-ed241defa761" />
+</td>
+</tr>
+</table>
 
-## 관련 레포지토리
+1. Safari → Settings 클릭
+2. New windows/tabs open with 을 Homepage로 설정
+3. Homepage 주소를 [`https://www.delook.co.kr`](https://www.delook.co.kr/) 으로 등록
 
-| Repo | 설명 |
-|------|------|
-| [delook](https://github.com/delook-dev/delook) | 서비스 개발 레포 |
+### Firefox 
+
+<table align="center">
+  <tr>
+    <td><img width="560" alt="firefox2" src="https://github.com/user-attachments/assets/0c6f1d0c-072f-48e0-aa6a-2f7adb6e75d4" /></td>
+    <td><img width="560" alt="firefox1" src="https://github.com/user-attachments/assets/fc7f7066-cf8b-474e-883c-850098873f02" /></td>
+  </tr>
+</table>
+
+1. Firefox → 설정 클릭 
+2. 좌측 하단 `확장 기능 및 테마` 클릭 
+3. 좌측 사이드 바 `확장 기능` 클릭 → `Cusotm New Tab Page` 클릭 → `설정` 클릭 
+4. New Tab URL을 [`https://www.delook.co.kr`](https://www.delook.co.kr/) 으로 등록 후 저장
 
 
 ## 오픈소스 기여
-디룩은 함께 만들어가는 오픈소스 프로젝트입니다.</br>지식을 나누고 싶은 누구나, Delook에 기여할 수 있습니다.
+디룩은 함께 만들어가는 오픈소스 프로젝트입니다.
 
-> 기여를 원하신다면 [CONTRIBUTING.md](https://github.com/delook-dev/delook/blob/main/CONTRIBUTING.md)와 [CODE_OF_CONDUCT.md](https://github.com/delook-dev/delook/blob/main/CODE_OF_CONDUCT.md)를 참고해주세요.
+> 곧 디룩을 함께 만들어나갈 기여자들을 모집할 계획입니다.
+추후 내용이 확정되면 공지를 올리겠습니다. 
 
-궁금한 점이나 제안은 [Discussions](https://github.com/delook-dev/delook/discussions) 또는 [Issues](https://github.com/delook-dev/delook/issues)를 통해 남겨주세요.
+궁금한 점이나 제안은 delook.dev@gmail.com를 통해 남겨주세요.
