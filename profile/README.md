@@ -14,6 +14,16 @@
 
 디룩(Delook)은 브라우저 새 탭에서 프로그래밍 지식을 학습할 수 있도록 돕는 플랫폼입니다.
 
+## 오픈소스 기여
+디룩은 함께 만들어가는 오픈소스 프로젝트입니다.
+
+### 🍕 디룩 1기 스터디원 모집 중 !!!
+현재 콘텐츠 기여를 위한 1기 스터디원을 모집하고 있습니다. 
+> [소개/홍보 글](https://velog.io/@ewaterbin/delook-crew-1)을 참고해주세요. 
+>
+>  [지원하기 ↗️](https://docs.google.com/forms/d/e/1FAIpQLScbPOv9LDjI1gI0cI3GMcEeI4POktX4BW-7O7-_V5RxC4PNmg/viewform)
+
+
 ## 해결하고자 하는 점
 
 - 정리한 학습 내용을 다시 찾아보지 않는 문제 개선
@@ -65,12 +75,5 @@
 2. 좌측 하단 `확장 기능 및 테마` 클릭 
 3. 좌측 사이드 바 `확장 기능` 클릭 → `Cusotm New Tab Page` 클릭 → `설정` 클릭 
 4. New Tab URL을 [`https://www.delook.co.kr`](https://www.delook.co.kr/) 으로 등록 후 저장
-
-
-## 오픈소스 기여
-디룩은 함께 만들어가는 오픈소스 프로젝트입니다.
-
-> 곧 디룩을 함께 만들어나갈 기여자들을 모집할 계획입니다.
-추후 내용이 확정되면 공지를 올리겠습니다. 
 
 궁금한 점이나 제안은 <a href="mailto:delook.dev@gmail.com">delook.dev@gmail.com</a>를 통해 남겨주세요.
